@@ -1,16 +1,7 @@
-# flutter_animated_container
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Email Validator with RegExp in Flutter
+## Preview
+![git](https://user-images.githubusercontent.com/91388754/172040488-c4c16a0b-0c23-4e9e-850d-b5cc7b5b20b4.gif)
+## Links
+### Support Me
+<a href=""><img src="![Screenshot 2022-08-04 at 2 37 34 PM](https://user-images.githubusercontent.com/62112170/182817320-4b7f9ded-00ac-4fe3-aedb-fb0911adab1b.png)
+" width="200" /></a>
